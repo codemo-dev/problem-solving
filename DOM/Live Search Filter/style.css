@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchBar {
+    width: 400px;
+    height: 30px;
+    font-size: large;
+    border-radius: 20px;
+}
+
+#namesList {
+    width: 300px;
+    padding: 20px;
+}
+
+#namesList li {
+    margin-bottom: 5px;
+    font-size: larger;
+}
