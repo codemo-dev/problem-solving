@@ -1,8 +1,8 @@
-# Problem Solving Journey 💻
+# 💻 Problem Solving Journey 💻
 
 This repository contains my solutions for various programming challenges using JavaScript. The goal is to improve logic building and master data structures.
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 | Category | Description |
 | :--- | :--- |
@@ -10,14 +10,15 @@ This repository contains my solutions for various programming challenges using J
 | [Data Types](./Data%20Types/) | Exercises on basic data types and operations. |
 | [DOM](./DOM/) | A collection of projects focusing on DOM manipulation, events handling, and creating interactive user interfaces. |
 
-## 📝 Challenges List
+## 🏁 Challenges List
 
 | Challenge | Category | Description | Solution Link | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
 | Max Number Function | Arrays | Finding the largest number in an array. | [Code](./Arrays/max-num-func.js) | - |
 | Operations on Data | Data Types | Basic operations and data type transformations. | [Code](./Data%20Types/operations-on-data.js) | - |
-| **Live Search Filter** | DOM | Real-time list filtering system using JS events. | [Code](./DOM/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Live%20Search%20Filter/) |
-| **Color Swatch** | DOM | Dynamic background color switcher using event delegation. | [Code](./DOM/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/DOM/Live Search Filter/Color%20Swatch/) |
+| **Live Search Filter** | DOM | Real-time list filtering system using JS events. | [Code](./DOM/Live%20Search%20Filter/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Live%20Search%20Filter/) |
+| **Color Swatch** | DOM | Dynamic background color switcher using event delegation. | [Code](./DOM/color-swatch/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/color-swatch/) |
 
 ---
+
 *Keep coding and solving!* 🚀
