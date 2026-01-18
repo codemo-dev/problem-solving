@@ -16,8 +16,8 @@ This repository contains my solutions for various programming challenges using J
 | :--- | :--- | :--- | :--- | :--- |
 | Max Number Function | Arrays | Finding the largest number in an array. | [Code](./Arrays/max-num-func.js) | - |
 | Operations on Data | Data Types | Basic operations and data type transformations. | [Code](./Data%20Types/operations-on-data.js) | - |
-| **Live Search Filter** | DOM | Real-time list filtering system using JS events. | [Code](./DOM/Live%20Search%20Filter/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Live%20Search%20Filter/) |
-| **Color Swatch** | DOM | Dynamic background color switcher using event delegation. | [Code](./DOM/Color%20Swatch/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Color%20Swatch/) |
+| **Live Search Filter** | DOM | Real-time list filtering system using JS events. | [Code](./DOM/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Live%20Search%20Filter/) |
+| **Color Swatch** | DOM | Dynamic background color switcher using event delegation. | [Code](./DOM/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Color%20Swatch/) |
 
 ---
 *Keep coding and solving!* 🚀
