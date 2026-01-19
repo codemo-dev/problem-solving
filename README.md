@@ -18,6 +18,7 @@ This repository contains my solutions for various programming challenges using J
 | Operations on Data | Data Types | Basic operations and data type transformations. | [Code](./Data%20Types/operations-on-data.js) | - |
 | **Live Search Filter** | DOM | Real-time list filtering system using JS events. | [Code](./DOM/Live%20Search%20Filter/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/Live%20Search%20Filter/) |
 | **Color Swatch** | DOM | Dynamic background color switcher using event delegation. | [Code](./DOM/color-swatch/) | [🔗 View Demo](https://codemo-dev.github.io/problem-solving/DOM/color-swatch/) |
+| Search for python Dev Function | Arrays | Search inside an array for object by means of a property of its property. | [Code](./Arrays/search-for-py-dev-func.js) | - |
 
 ---
 
