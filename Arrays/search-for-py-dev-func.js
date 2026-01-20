@@ -6,4 +6,12 @@ function getFirstPython(list) {
             return "There will be no Python developers";
         }
     }
-}
+};
+
+let list = [
+    {firstName : "Mohamed", age : 19, language : "JavaScript", country : "Sudan"},
+    {firstName : "Sadeg", age : 23, language : "Python", country : "Sudan"},
+    {firstName : "Ahmad", age : 29, language : "Java", country : "egypt"}
+];
+
+console.log(getFirstPython(list));
