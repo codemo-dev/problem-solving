@@ -21,6 +21,7 @@ This repository contains my solutions for various programming challenges using J
 | Search for python Dev Function | Arrays | Search inside an array for object by means of a property of its property. | [Code](./Arrays/search-for-py-dev-func.js) | - |
 | Grades Filter | Arrays | Conducting operations on an Array containing student grades using HOF and Math methods | [Code](./Arrays/grades-filter.js) | - |
 | Total amount of points | Arrays | Conducting several operations on an array that represents the results of team matches | [Code](./Arrays/total-amount-of-points.js) | - |
+| Unique Characters Count | Strings | A simple JavaScript function that counts the number of distinct characters in a given string. | [Code](./Strings/unique-characters-count.js) | - |
 
 ---
 
